@@ -1,4 +1,3 @@
-
 public class Camaro {
 
 	public static void main(String[] args) {
@@ -12,5 +11,4 @@ public class Camaro {
 		camaro.ligar();
 		camaro.acelerar();
 	}
-
 }

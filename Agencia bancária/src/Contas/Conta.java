@@ -22,8 +22,6 @@ public class Conta{
 		System.out.println("Crédito R$: " + valor);
 	}
 	
-	/*Foi criado um objeto(destino) dentro do método, usando a classe Conta, o destino vai ser substituído pela cc na classe Pessoa Física pra que 
-	seja realizada a transferência.*/
 	void transferir(Conta destino, double valor){
 		this.sacar(valor);
 		destino.depositar(valor);

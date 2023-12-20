@@ -6,7 +6,7 @@ public class PessoaFisica2 {
 
 	public static void main(String[] args) {
 		Conta2 cc1 = new Conta2();
-		cc1.setCliente("Everson Bortolotto dos Santos.");
+		cc1.setCliente("Everson B. Santos.");
 		cc1.setSaldo(10000);
 		cc1.sacar(500);
 		
@@ -15,7 +15,7 @@ public class PessoaFisica2 {
 		System.out.println("==================================");
 		
 		Conta2 cc2 = new Conta2();
-		cc2.setCliente("Celoni Bortolotto dos Santos.");
+		cc2.setCliente("Gabrielly B. dos Santos.");
 		cc2.setSaldo(25000);
 		cc2.depositar(1200);
 		

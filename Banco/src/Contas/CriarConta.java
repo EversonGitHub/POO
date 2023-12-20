@@ -14,6 +14,5 @@ public class CriarConta {
 		Conta conta2 = new Conta();
 		conta2.setSaldo(300);
 		System.out.println("O saldo da conta 2 é " + conta2.getSaldo() + " reais.");
-	
 	}
 }

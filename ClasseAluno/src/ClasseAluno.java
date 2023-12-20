@@ -1,8 +1,4 @@
 public class ClasseAluno {
-	/*Ao usar o parâmetro private, eu defino que somente essa classe, a ClasseAluno, possa manipular
-	 os atributos correspondes a ela. Pra fazer com que outras classes possam obter, acessar essa classe
-	 com os atributos private, é preciso criar um método para tal, o chamando assim em outras classes. 
-	 */
 	
 	private String nome;
 	private int idade;

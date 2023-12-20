@@ -1,8 +1,8 @@
-
 public class MainJogo extends ClasseJogo{
 
 	String personagens;
 	String historia;
+	
 	public static void main(String[] args) {
 
 		MainJogo aov = new MainJogo();
@@ -22,5 +22,4 @@ public class MainJogo extends ClasseJogo{
 		
 		aov.jogar();
 	}
-
 }

@@ -8,7 +8,6 @@ public class AtributosCarro {
 	short velocidade;
 	
 	void acelerar(int aceleracao){
-	//Parâmetros, são variáveis que vão participar dos métodos.
 		velocidade += aceleracao;
 	}
 

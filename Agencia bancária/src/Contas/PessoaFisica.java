@@ -4,7 +4,7 @@ public class PessoaFisica {
 
 	public static void main(String[] args) {
 		Conta cc1 = new Conta();
-		cc1.cliente = "Everson Bortolotto dos Santos.";
+		cc1.cliente = "Everson B. Santos.";
 		cc1.saldo = 10000;
 		cc1.sacar(500);
 		
@@ -13,7 +13,7 @@ public class PessoaFisica {
 		System.out.println("==================================");
 		
 		Conta cc2 = new Conta();
-		cc2.cliente = "Celoni Bortolotto dos Santos.";
+		cc2.cliente = "Gabrielly B. Santos.";
 		cc2.saldo = 25000;
 		cc2.depositar(1200);
 		

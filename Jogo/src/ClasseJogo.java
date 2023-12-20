@@ -1,4 +1,3 @@
-
 public class ClasseJogo {
 	String nome;
 	String genero;
@@ -7,5 +6,4 @@ public class ClasseJogo {
 	public void jogar(){
 		System.out.println("Carregando...");
 	}
-	
 }
